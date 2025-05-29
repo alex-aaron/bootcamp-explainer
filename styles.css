@@ -1,0 +1,94 @@
+
+
+body {
+  background-color: #22222f;
+  padding: 20px;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  color: white;
+}
+
+.header-text {
+  color: #ffcc00
+}
+
+.basic-text {
+  color: white; 
+}
+
+.heading {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.week-container {
+  padding: 20px;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-color: white;
+  background-color: #22222f;
+  border-radius: 30px;
+}
+#week-header {
+  margin-bottom: 10px;
+}
+
+#week-text {
+  margin-left: 20px;
+}
+
+#day-text {
+  margin-left: 20px;
+}
+
+#day-container {
+  background-color: #22222f;
+}
+
+#categories {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.introduction {
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(211, 58, 198);
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.introduction-text {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.basic-layout {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 300px;
+}
+
+.screenshot {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.homework-day-1 {
+  margin-left: 20px;
+}
+
+mark {
+  background-color: rgb(211, 146, 210);
+}
